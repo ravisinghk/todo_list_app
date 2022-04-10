@@ -1,0 +1,2 @@
+Published versions URLs
+1. https://exp.host/@ravisinghk/todo_list_v1  OR  exp://exp.host/@ravisinghk/todo_list_v1?release-channel=default OR https://expo.dev/@ravisinghk/todo_list_v1
